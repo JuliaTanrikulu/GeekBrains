@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\HomeworkC#\Hw003_basicAlg\bin\Debug\net6.0\Hw003_basicAlg.exe
+C:\Users\Asus\Desktop\HomeworkC#\Hw003_basicAlg\bin\Debug\net6.0\Hw003_basicAlg.deps.json
+C:\Users\Asus\Desktop\HomeworkC#\Hw003_basicAlg\bin\Debug\net6.0\Hw003_basicAlg.runtimeconfig.json
+C:\Users\Asus\Desktop\HomeworkC#\Hw003_basicAlg\bin\Debug\net6.0\Hw003_basicAlg.dll
+C:\Users\Asus\Desktop\HomeworkC#\Hw003_basicAlg\bin\Debug\net6.0\Hw003_basicAlg.pdb
+C:\Users\Asus\Desktop\HomeworkC#\Hw003_basicAlg\obj\Debug\net6.0\Hw003_basicAlg.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\HomeworkC#\Hw003_basicAlg\obj\Debug\net6.0\Hw003_basicAlg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\HomeworkC#\Hw003_basicAlg\obj\Debug\net6.0\Hw003_basicAlg.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\HomeworkC#\Hw003_basicAlg\obj\Debug\net6.0\Hw003_basicAlg.AssemblyInfo.cs
+C:\Users\Asus\Desktop\HomeworkC#\Hw003_basicAlg\obj\Debug\net6.0\Hw003_basicAlg.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\HomeworkC#\Hw003_basicAlg\obj\Debug\net6.0\Hw003_basicAlg.dll
+C:\Users\Asus\Desktop\HomeworkC#\Hw003_basicAlg\obj\Debug\net6.0\refint\Hw003_basicAlg.dll
+C:\Users\Asus\Desktop\HomeworkC#\Hw003_basicAlg\obj\Debug\net6.0\Hw003_basicAlg.pdb
+C:\Users\Asus\Desktop\HomeworkC#\Hw003_basicAlg\obj\Debug\net6.0\Hw003_basicAlg.genruntimeconfig.cache
+C:\Users\Asus\Desktop\HomeworkC#\Hw003_basicAlg\obj\Debug\net6.0\ref\Hw003_basicAlg.dll
